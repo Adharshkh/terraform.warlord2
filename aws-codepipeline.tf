@@ -34,7 +34,7 @@ resource "aws_codepipeline" "codepipeline" {
 
       configuration = {
         Owner            = "Adharshkh"
-        OAuthToken       = "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"
+        OAuthToken       = "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"
         Repo             = "terraform.warlord"
         Branch           = "main"
       }
